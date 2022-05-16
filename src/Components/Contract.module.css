@@ -1,0 +1,23 @@
+.masterdiv{
+    
+    
+    display: flex;
+    width: 270px;
+    height: 60px;
+    
+    
+   
+}
+
+.imgdiv>*{
+    width: 60px;
+    border-radius: 50%;
+    margin: 0px 5px 5px 5px;
+}
+
+.detdiv>*{
+    margin: 0px;
+}
+.showme{
+    color: rgb(41, 87, 255);
+}
